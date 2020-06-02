@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: Classic were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost:8080
+Data file = /var/www/html/wp-content/themes/realhomes/framework/demos/classic/contents.xml
+Widget file = /var/www/html/wp-content/themes/realhomes/framework/demos/classic/widgets.wie
+Customizer file = /var/www/html/wp-content/themes/realhomes/framework/demos/classic/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+RealHomes - Advance Search Widget - Find Your Home - Imported
+Tìm kiếm - Search - Imported
+Chuyên mục - Categories - Imported
+Mây Thẻ - Tags - Imported
+
+Pages Sidebar : 
+
+RealHomes - Advance Search Widget - Find Your Home - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Contact Sidebar : 
+
+RealHomes - Advance Search Widget - Find Your Home - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Property Sidebar : 
+
+Mortgage Calculator - Monthly Mortgage Payments - Imported
+RealHomes - Advance Search Widget - Find Your Home - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Properties List Sidebar : 
+
+RealHomes - Advance Search Widget - Find Your Home - Imported
+RealHomes - Property Types - Property Types - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Footer First Column : 
+
+Văn bản - About Real Homes - Imported
+
+Footer Second Column : 
+
+Bài viết mới - Recent Posts - Imported
+
+Footer Third Column : 
+
+Chuyên mục - Categories - Imported
+
+Footer Fourth Column : 
+
+Văn bản - Contact Info - Imported
+
+Agent Sidebar : 
+
+RealHomes - Agent Featured Properties - Featured Properties - Imported
+RealHomes - Advance Search Widget - Find Your Home - Imported
+
+Agency Sidebar : 
+
+RealHomes - Advance Search Widget - Find Your Home - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Property Search Sidebar : 
+
+RealHomes - Advance Search Widget - Find Your Home - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

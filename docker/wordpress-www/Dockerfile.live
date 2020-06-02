@@ -1,0 +1,2 @@
+FROM wordpress:latest
+COPY docker/wordpress-www/uploads.ini /usr/local/etc/php/conf.d/uploads.ini

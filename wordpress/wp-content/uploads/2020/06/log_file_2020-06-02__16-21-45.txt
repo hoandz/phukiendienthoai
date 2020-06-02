@@ -1,0 +1,99 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost:8080
+Data file = /var/www/html/wp-content/uploads/2020/06/shoppingcart.wordpress.xml
+Widget file = /var/www/html/wp-content/uploads/2020/06/shoppingcart-widgets.wie
+Customizer file = /var/www/html/wp-content/uploads/2020/06/shoppingcart-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Top Header Info : 
+
+Text - No Title - Widget already exists
+
+Advertisement Banner One : 
+
+Image - No Title - Widget already exists
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Products - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Products by Rating - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+Custom HTML - Contact Info - Widget already exists
+
+WooCommerce Sidebar : 
+
+Product Categories - Product categories - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Products - Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Products - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Products - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Products - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Products - Products - Imported
+
+Footer Column 1 : 
+
+Text - No Title - Widget already exists
+
+Footer Column 2 : 
+
+Custom HTML - We Accept - Widget already exists
+
+Footer Column 3 : 
+
+Custom HTML - Shop Location - Widget already exists
+
+Footer Column 4 : 
+
+Image - Download App - Widget already exists
+Image - No Title - Widget already exists
+
+Max Mega Menu Widgets : 
+
+Products - Products - Imported
+Text - No Title - Imported
+Products - Products - Imported
+Text - No Title - Imported
+Max Mega Menu - No Title - Imported
+Navigation Menu - No Title - Imported
+Image - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

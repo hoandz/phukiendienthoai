@@ -1,0 +1,216 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost:8080
+Data file = /var/www/html/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = /var/www/html/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = /var/www/html/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào product_tag Automobiles
+[WARNING] Không thể nhập vào product_visibility exclude-from-catalog
+[WARNING] Không thể nhập vào product_visibility exclude-from-search
+[WARNING] Không thể nhập vào product_type external
+[WARNING] Không thể nhập vào product_visibility featured
+[WARNING] Không thể nhập vào product_tag Girls
+[WARNING] Không thể nhập vào product_type grouped
+[WARNING] Không thể nhập vào product_tag Hand Bags
+[WARNING] Không thể nhập vào product_visibility outofstock
+[WARNING] Không thể nhập vào product_visibility rated-1
+[WARNING] Không thể nhập vào product_visibility rated-2
+[WARNING] Không thể nhập vào product_visibility rated-3
+[WARNING] Không thể nhập vào product_visibility rated-4
+[WARNING] Không thể nhập vào product_visibility rated-5
+[WARNING] Không thể nhập vào product_type simple
+[WARNING] Không thể nhập vào product_cat Uncategorized
+[WARNING] Không thể nhập vào product_type variable
+[WARNING] Không thể nhập vào product_tag Wood
+[WARNING] Không thể nhập vào product_cat Brand 1
+[WARNING] Không thể nhập vào product_cat Brand 2
+[WARNING] Không thể nhập vào product_cat Brand 3
+[WARNING] Không thể nhập vào product_cat Brand 4
+[WARNING] Không thể nhập vào product_cat Brand 5
+[WARNING] Không thể nhập vào product_cat Brand 6
+[WARNING] Không thể nhập vào product_cat Brand 7
+[WARNING] Không thể nhập vào product_cat Brand 8
+[WARNING] Không thể nhập vào product_cat Furniture
+[WARNING] Không thể nhập vào product_cat Glasses
+[WARNING] Không thể nhập vào product_cat Mixed
+[WARNING] Không thể nhập vào product_cat Popular Item
+[WARNING] Không thể nhập vào product_cat Shoes
+[WARNING] Không thể nhập vào product_cat Shorts
+[WARNING] Không thể nhập vào product_cat Slider
+[WARNING] Không thể nhập vào product_cat Sports
+[WARNING] Không thể nhập vào product_cat Watches
+
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào product_tag Automobiles
+[WARNING] Không thể nhập vào product_visibility exclude-from-catalog
+[WARNING] Không thể nhập vào product_visibility exclude-from-search
+[WARNING] Không thể nhập vào product_type external
+[WARNING] Không thể nhập vào product_visibility featured
+[WARNING] Không thể nhập vào product_tag Girls
+[WARNING] Không thể nhập vào product_type grouped
+[WARNING] Không thể nhập vào product_tag Hand Bags
+[WARNING] Không thể nhập vào product_visibility outofstock
+[WARNING] Không thể nhập vào product_visibility rated-1
+[WARNING] Không thể nhập vào product_visibility rated-2
+[WARNING] Không thể nhập vào product_visibility rated-3
+[WARNING] Không thể nhập vào product_visibility rated-4
+[WARNING] Không thể nhập vào product_visibility rated-5
+[WARNING] Không thể nhập vào product_type simple
+[WARNING] Không thể nhập vào product_cat Uncategorized
+[WARNING] Không thể nhập vào product_type variable
+[WARNING] Không thể nhập vào product_tag Wood
+[WARNING] Không thể nhập vào product_cat Brand 1
+[WARNING] Không thể nhập vào product_cat Brand 2
+[WARNING] Không thể nhập vào product_cat Brand 3
+[WARNING] Không thể nhập vào product_cat Brand 4
+[WARNING] Không thể nhập vào product_cat Brand 5
+[WARNING] Không thể nhập vào product_cat Brand 6
+[WARNING] Không thể nhập vào product_cat Brand 7
+[WARNING] Không thể nhập vào product_cat Brand 8
+[WARNING] Không thể nhập vào product_cat Furniture
+[WARNING] Không thể nhập vào product_cat Glasses
+[WARNING] Không thể nhập vào product_cat Mixed
+[WARNING] Không thể nhập vào product_cat Popular Item
+[WARNING] Không thể nhập vào product_cat Shoes
+[WARNING] Không thể nhập vào product_cat Shorts
+[WARNING] Không thể nhập vào product_cat Slider
+[WARNING] Không thể nhập vào product_cat Sports
+[WARNING] Không thể nhập vào product_cat Watches
+
+
+------
+New AJAX call!
+[WARNING] Không thể nhập vào product_tag Automobiles
+[WARNING] Không thể nhập vào product_visibility exclude-from-catalog
+[WARNING] Không thể nhập vào product_visibility exclude-from-search
+[WARNING] Không thể nhập vào product_type external
+[WARNING] Không thể nhập vào product_visibility featured
+[WARNING] Không thể nhập vào product_tag Girls
+[WARNING] Không thể nhập vào product_type grouped
+[WARNING] Không thể nhập vào product_tag Hand Bags
+[WARNING] Không thể nhập vào product_visibility outofstock
+[WARNING] Không thể nhập vào product_visibility rated-1
+[WARNING] Không thể nhập vào product_visibility rated-2
+[WARNING] Không thể nhập vào product_visibility rated-3
+[WARNING] Không thể nhập vào product_visibility rated-4
+[WARNING] Không thể nhập vào product_visibility rated-5
+[WARNING] Không thể nhập vào product_type simple
+[WARNING] Không thể nhập vào product_cat Uncategorized
+[WARNING] Không thể nhập vào product_type variable
+[WARNING] Không thể nhập vào product_tag Wood
+[WARNING] Không thể nhập vào product_cat Brand 1
+[WARNING] Không thể nhập vào product_cat Brand 2
+[WARNING] Không thể nhập vào product_cat Brand 3
+[WARNING] Không thể nhập vào product_cat Brand 4
+[WARNING] Không thể nhập vào product_cat Brand 5
+[WARNING] Không thể nhập vào product_cat Brand 6
+[WARNING] Không thể nhập vào product_cat Brand 7
+[WARNING] Không thể nhập vào product_cat Brand 8
+[WARNING] Không thể nhập vào product_cat Furniture
+[WARNING] Không thể nhập vào product_cat Glasses
+[WARNING] Không thể nhập vào product_cat Mixed
+[WARNING] Không thể nhập vào product_cat Popular Item
+[WARNING] Không thể nhập vào product_cat Shoes
+[WARNING] Không thể nhập vào product_cat Shorts
+[WARNING] Không thể nhập vào product_cat Slider
+[WARNING] Không thể nhập vào product_cat Sports
+[WARNING] Không thể nhập vào product_cat Watches
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Lưu trữ - No Title - Widget already exists
+Chuyên mục - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Top Header Info : 
+
+Văn bản - No Title - Imported
+
+Advertisement Banner One : 
+
+Ảnh - No Title - Imported
+
+Shopping Cart Template : 
+
+shoppingcart_product_grid_column_widget - Best Selling Products - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+shoppingcart_product_grid_column_widget - Featured Products - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+shoppingcart_product_grid_column_widget - New Arrival Product - Site does not support widget
+
+Contact Page Sidebar : 
+
+HTML Tùy chỉnh - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_layered_nav_filters - Active filters - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+ ShoppingCart Template Footer Column 1 : 
+
+woocommerce_products - Featured Products - Site does not support widget
+
+ ShoppingCart Template Footer Column 2 : 
+
+woocommerce_products - On Sale Products - Site does not support widget
+
+ ShoppingCart Template Footer Column 3 : 
+
+woocommerce_products - All Products - Site does not support widget
+
+ ShoppingCart Template Footer Column 4 : 
+
+woocommerce_products - Products - Site does not support widget
+
+Footer Column 1 : 
+
+Văn bản - No Title - Imported
+
+Footer Column 2 : 
+
+HTML Tùy chỉnh - We Accept - Imported
+
+Footer Column 3 : 
+
+HTML Tùy chỉnh - Shop Location - Imported
+
+Footer Column 4 : 
+
+Ảnh - Download App - Imported
+Ảnh - No Title - Imported
+
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_products - Products - Site does not support widget
+Văn bản - No Title - Imported to Inactive
+woocommerce_products - Products - Site does not support widget
+Văn bản - No Title - Imported to Inactive
+maxmegamenu - No Title - Site does not support widget
+Thanh điều hướng - No Title - Imported to Inactive
+Ảnh - Featured Product - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+

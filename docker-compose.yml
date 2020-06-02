@@ -1,0 +1,45 @@
+
+version: "3"
+services:
+    # Use for both development and deployment
+    app:
+      image: wordpress-www-dev
+      container_name: phukiendienthoai-www-dev
+      build:
+        context: .
+        dockerfile: docker/wordpress-www/Dockerfile.dev
+      depends_on:
+        - mysql
+      ports:
+        - 8080:80
+      volumes:
+        - ./wordpress:/var/www/html
+
+    mysql:
+      container_name: phukiendienthoai-mysql
+      image: mysql:5.6
+      ports:
+        - 13306:3306
+      volumes:
+        - mysql_dev:/var/lib/mysql
+      environment:
+        MYSQL_DATABASE: homestead
+        MYSQL_ROOT_PASSWORD: root
+        MYSQL_USER: homestead
+        MYSQL_PASSWORD: secret
+
+    phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      container_name: laravel-phpmyadmin
+      ports:
+        - 8081:80
+      depends_on:
+        - mysql
+      environment:
+        PMA_HOST: wordpress-mysql
+        MYSQL_USER: homestead
+        MYSQL_PASSWORD: secret
+
+volumes:
+  mysql_dev:
+    driver: "local"
