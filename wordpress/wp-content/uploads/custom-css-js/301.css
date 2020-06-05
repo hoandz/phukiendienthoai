@@ -1,0 +1,104 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.term-description p{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  color: #f90300;
+  border-bottom: 4px solid #f903009e;
+}
+.widget-area .column-4{
+  width: 33.3%;
+}
+.product-item-action{
+  display: none;
+}
+.wishlist-box{
+  display: none;
+}
+.cart-box{
+  display: none;
+}
+.cart{
+  display: none;
+}
+.yith-wcwl-add-button{
+  display: none;
+}
+.archive.woocommerce ul.products li.product .onsale {
+    top: 5px;
+    right: 11px;
+}
+.archive.woocommerce span.onsale:before {
+   content: "";
+    background-color: #f90300;
+    width: 86px !important;
+    height: 27px !important;
+    position: absolute;
+    z-index: -1;
+    top: 0 !important;
+    transform: rotate(0);
+}
+.sc-grid-product-img .onsale:before{
+  content: "";
+    background-color: #f90300 !important;
+    width: 44px !important;
+    height: 27px !important;
+	transform: rotate(0);
+    position: absolute;
+    z-index: -1;
+    top: 0 !important;
+    right: 0 !important;
+  
+}
+.woocommerce ul.products li.product .onsale{
+  margin: 0 !important;
+  top: 0 !important;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+  border: 1px solid #eee;
+}
+.woocommerce ul.products li.product .button{
+  display: none;
+}
+.woocommerce ul.products li.product a img{
+  border-bottom: 1px solid #eee;
+}
+#colophon .widget-wrap{
+	background-color: #141314 !important;
+}
+#colophon .footer-policies-bh{
+  background-color: white !important;
+  max-width: 100%;
+  padding: 10px 43px;
+}
+#colophon .widget-title {
+    font-size: 20px;
+    line-height: 1.444;
+    color: white;
+}
+.site-info {
+    background-color: #202020 !important;
+    font-size: 14px;
+    line-height: 1.571;
+    text-align: center;
+    padding: 5px 0;
+}
+.site-info .copyright {
+    font-size: 13px;
+    line-height: 26px;
+    text-align: center !important;
+  	float: unset !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->
